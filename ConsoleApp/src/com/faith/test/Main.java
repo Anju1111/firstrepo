@@ -5,7 +5,7 @@ public class Main {
 	public static void main(String[] args)
 	{
 		SalesData objs=new SalesData();
-		System.out.println("Hello People\n");
+		System.out.println("Hello Anju\n");
 		displayGreetings();
 		objs.display();
 		
@@ -13,6 +13,6 @@ public class Main {
 	}
     private static void displayGreetings()
     {
-    	System.out.println("welcome to Sales Report App 2019....!!!!!!!!!!!!!");
+    	System.out.println("welcome to Sales Report App 2019....!!!!!!!!!!!!!!!!!!");
     }
 }
